@@ -35,8 +35,6 @@ cd ../
 ## Try this! 
 
 ```bash
-npx create-next-app@latest
-
 # Install Dependencies
 npm install -D react-wrap-balancer
 npm install -D @tailwindcss/typography
