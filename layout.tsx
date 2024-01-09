@@ -1,5 +1,5 @@
 import { cn } from "@/lib/utils";
-import { ThemeProvider } from "./craft/theme/theme-provider";
+import { ThemeProvider } from "./theme/theme-provider";
 
 // LAYOUT
 // Layout Component
