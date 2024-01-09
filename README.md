@@ -3,7 +3,7 @@
 ## Create NextJS App With Tailwind 
 
 ```bash
-npx create-next-app@latest NAME
+npx create-next-app@latest
 ```
 
 ## Install Dependencies 
