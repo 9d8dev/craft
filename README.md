@@ -29,4 +29,5 @@ npx shadcn-ui@latest add -a
 # Install Craft Components
 cd components
 git submodule add https://github.com/brijr/craft
+cd ../
 ```
