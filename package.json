@@ -1,5 +1,5 @@
 {
-  "name": "craftui",
+  "name": "@brijr/craft",
   "version": "0.0.1",
   "description": "React Components and Design System built with Tailwind, Typescript, Shadcn/ui, and Radix.",
   "main": "index.js",
