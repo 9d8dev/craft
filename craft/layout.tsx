@@ -1,5 +1,4 @@
 import { cn } from '@/lib/utils';
-import { ThemeProvider } from './theme/theme-provider';
 
 // LAYOUT
 // Layout Component
@@ -11,16 +10,7 @@ type LayoutProps = {
 const Layout = ({ children, className }: LayoutProps) => {
 	return (
 		<html lang="en" className={cn('antialiased scroll-smooth focus:scroll-auto', className)}>
-			<body className={className}>
-				<ThemeProvider
-					attribute="class"
-					defaultTheme="system"
-					enableSystem
-					disableTransitionOnChange
-				>
-					{children}
-				</ThemeProvider>
-			</body>
+			<body className={className}>{children}</body>
 		</html>
 	);
 };
