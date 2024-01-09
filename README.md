@@ -3,7 +3,7 @@
 ## Create NextJS App With Tailwind 
 
 ```bash
-npx create-next-app@latest
+npx create-next-app@latest my-app --typescript --tailwind --eslint
 ```
 
 ## Install Dependencies 
