@@ -31,3 +31,23 @@ cd components
 git submodule add https://github.com/brijr/craft
 cd ../
 ```
+
+## Try this! 
+
+```bash
+npx create-next-app@latest
+
+# Install Dependencies
+npm install -D react-wrap-balancer
+npm install -D @tailwindcss/typography
+npm install -D next-themes
+
+# Install shadcn/ui and all components
+npx shadcn-ui@latest init
+npx shadcn-ui@latest add -a
+
+# Install Craft Components
+cd components
+git submodule add https://github.com/brijr/craft
+cd ../
+```
