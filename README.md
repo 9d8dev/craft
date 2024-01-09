@@ -10,6 +10,7 @@ npx create-next-app@latest my-app --typescript --tailwind --eslint
 
 ```bash
 # Install Dependencies
+npm install
 npm install -D react-wrap-balancer
 npm install -D @tailwindcss/typography
 npm install -D next-themes
