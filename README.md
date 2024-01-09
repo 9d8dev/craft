@@ -5,6 +5,7 @@
 > git submodule init
 > git submodule update
 > ```
+> Alternatively, yoy can download the folder from releases and place in your components folder.
 
 For examples of Craft UI, check out [craftui.org](https://craftui.org)
 
