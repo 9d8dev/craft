@@ -19,7 +19,7 @@ npm install -D next-themes
 
 ```bash
 # Install shadcn/ui and all components
-npx shadcn-ui@latest init
+npx shadcn-ui@latest init -y
 npx shadcn-ui@latest add -a 
 ```
 
