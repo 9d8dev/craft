@@ -6,6 +6,7 @@
 > git submodule update
 > ```
 
+For examples of Craft UI, check out [craftui.org](https://craftui.org)
 
 ## Create NextJS App With Tailwind 
 
@@ -36,6 +37,6 @@ npx shadcn-ui@latest add -a
 ```bash
 # Install Craft Components
 cd components
-git submodule add https://github.com/brijr/craft
+git submodule add https://github.com/9d8dev/craft
 cd ../
 ```
