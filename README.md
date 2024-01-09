@@ -1,4 +1,11 @@
-# Getting Started 
+# Install Craft UI
+
+> Craft UI will be installed as a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) and will be placed in your `@/components` folder along with shadcn/ui. To recieve updates make sure to peroidically run
+> ```bash
+> git submodule init
+> git submodule update
+> ```
+
 
 ## Create NextJS App With Tailwind 
 
