@@ -7,7 +7,7 @@
 > ```
 > Alternatively, you can download the folder from releases and place in your components folder.
 
-For examples of Craft UI, check out [craftui.org](https://craftui.org)
+For examples of Craft UI, check out [craftui.org](https://craftui.org) or this [Repository](https://github.com/9d8dev/craft-examples).
 
 ## Create NextJS App With Tailwind 
 
