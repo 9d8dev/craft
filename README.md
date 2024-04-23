@@ -1,1 +1,1 @@
-Use (brijr/craft)[https://github.com/brijr/craft] instead
+Use [brijr/craft](https://github.com/brijr/craft) instead
